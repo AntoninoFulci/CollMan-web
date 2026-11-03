@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="/CollMan-web/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="CollMan — manage your Yu-Gi-Oh! collection, albums and decks.">
+  <meta name="theme-color" content="#121216">
+  <meta name="referrer" content="no-referrer">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+  <title>CollMan</title>
+  <style>
+    body { margin: 0; background: #121216; color: #eee; font: 16px system-ui, sans-serif; }
+    #loading { min-height: 100dvh; display: grid; place-content: center; gap: 12px; text-align: center; padding: 0 24px; }
+    #loading p { color: #aaa; max-width: 36em; }
+  </style>
+</head>
+<body>
+  <div id="loading" role="status" aria-live="polite">
+    <strong>CollMan</strong>
+    <p id="loading-message">Opening your collection. First launch downloads the card catalog and can take a little longer.</p>
+  </div>
+  <script>
+    if (navigator.language.startsWith('it')) {
+      document.documentElement.lang = 'it';
+      document.getElementById('loading-message').textContent =
+        'Apertura della collezione. Il primo avvio scarica il catalogo delle carte e può richiedere più tempo.';
+    }
+    window.addEventListener('flutter-first-frame', function () {
+      document.getElementById('loading')?.remove();
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

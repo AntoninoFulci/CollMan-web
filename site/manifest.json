@@ -1,0 +1,14 @@
+{
+  "name": "CollMan",
+  "short_name": "CollMan",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#121216",
+  "theme_color": "#121216",
+  "description": "Manage your Yu-Gi-Oh! collection, albums and decks.",
+  "icons": [
+    {"src": "icons/Icon-256.png", "sizes": "256x256", "type": "image/png"},
+    {"src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

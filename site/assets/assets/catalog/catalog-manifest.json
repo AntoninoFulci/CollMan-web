@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "schema_version": 5,
+  "built_at": "2026-11-02T11:22:00Z",
+  "url": "https://github.com/AntoninoFulci/CollMan-catalog/releases/download/bundled-2026-11-02/catalog.db",
+  "bytes": 152109056,
+  "sha256": "6eb0b0c12469762a16bce2836cfeee2ad3ef4495fc48a818a30a316f5f972a83",
+  "compressed_bytes": 53027323,
+  "compressed_sha256": "7ccea51edaaba94cb6c763e25c4ef38672d7219e2422ea7685804bdb676b04f6"
+}

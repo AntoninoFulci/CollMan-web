@@ -1,0 +1,1987 @@
+{
+  "upstream": {
+    "url": "https://github.com/DawnbrandBots/yaml-yugi",
+    "revision": "0e05f6e1ee0cf363558904547785c637fc24064f"
+  },
+  "copy_limit_groups": [
+    {
+      "card_id": 35,
+      "copy_limit_card_id": 4848,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/24094653.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Explicit alternate-art passcode identity: Polymerization (Yugipedia 35) and Polymerization (Yugipedia 4848) share Konami ID 4837; distinct passcodes and card IDs are preserved. Representative explicitly selected by curated ID evidence."
+    },
+    {
+      "card_id": 591,
+      "copy_limit_card_id": 570,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/00295517.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "A Legendary Ocean (Yugipedia 591) states: (This card is always treated as \"Umi\".) Representative Umi is explicitly Yugipedia 570 (22702055.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 4667,
+      "copy_limit_card_id": 508378,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/54415063.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Harpie Lady 3 (Yugipedia 4667) states: (This card's name is always treated as \"Harpie Lady\".) Representative Harpie Lady is explicitly Yugipedia 508378 (76812113.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 4743,
+      "copy_limit_card_id": 1132,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/36996508.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Explicit alternate-art passcode identity: Dark Magician (Yugipedia 4743) and Dark Magician (Yugipedia 1132) share Konami ID 4041; distinct passcodes and card IDs are preserved. Representative explicitly selected by curated ID evidence."
+    },
+    {
+      "card_id": 6225,
+      "copy_limit_card_id": 508378,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/91932350.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Harpie Lady 1 (Yugipedia 6225) states: (This card's name is always treated as \"Harpie Lady\".) Representative Harpie Lady is explicitly Yugipedia 508378 (76812113.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 7076,
+      "copy_limit_card_id": 508378,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/27927359.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Harpie Lady 2 (Yugipedia 7076) states: (This card's name is always treated as \"Harpie Lady\".) Representative Harpie Lady is explicitly Yugipedia 508378 (76812113.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 8839,
+      "copy_limit_card_id": 508378,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/80316585.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Cyber Harpie Lady (Yugipedia 8839) states: (This card's name is always treated as \"Harpie Lady\".) Representative Harpie Lady is explicitly Yugipedia 508378 (76812113.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 18194,
+      "copy_limit_card_id": 5912,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/78734254.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Neo-Spacian Marine Dolphin (Yugipedia 18194) states: This card's name is also treated as \"Neo-Spacian Aqua Dolphin\". This card cannot be Special Summoned except with \"NEX\". Once per turn, you can discard 1 card to look at your opponent's hand and select 1 Monster Card in it. If you control a monster with ATK greater than or equal to the selected monster's, destroy the selected monster and inflict 500 damage to your opponent. Representative Neo-Spacian Aqua Dolphin is explicitly Yugipedia 5912 (17955766.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 64149,
+      "copy_limit_card_id": 20911,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/13857930.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Neo-Spacian Twinkle Moss (Yugipedia 64149) states: This card's name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: ● Monster: End the Battle Phase. ● Spell: You can change this card's attack to a direct attack. ● Trap: This monster is changed to Defense Position. Representative Neo-Spacian Glow Moss is explicitly Yugipedia 20911 (17732278.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 196371,
+      "copy_limit_card_id": 570,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/34103656.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Lemuria, the Forgotten City (Yugipedia 196371) states: (This card is always treated as \"Umi\".) Representative Umi is explicitly Yugipedia 570 (22702055.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 203867,
+      "copy_limit_card_id": 4848,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/74335036.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Fusion Substitute (Yugipedia 203867) states: (This card is always treated as \"Polymerization\".) Representative Polymerization is explicitly Yugipedia 4848 (27847700.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 428611,
+      "copy_limit_card_id": 570,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/02819435.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Pacifis, the Phantasm City (Yugipedia 428611) states: (This card's name is always treated as \"Umi\".) Representative Umi is explicitly Yugipedia 570 (22702055.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 715692,
+      "copy_limit_card_id": 570,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/26534688.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Magellanica, the Deep Sea City (Yugipedia 715692) states: (This card's name is always treated as \"Umi\".) Representative Umi is explicitly Yugipedia 570 (22702055.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 717289,
+      "copy_limit_card_id": 189287,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/75402014.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Ultimate Dragonic Utopia Ray (Yugipedia 717289) states: (This card is always treated as \"Number C39: Utopia Ray\".) Representative Number C39: Utopia Ray is explicitly Yugipedia 189287 (56840427.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 717306,
+      "copy_limit_card_id": 189287,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/68679595.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Ultimate Leo Utopia Ray (Yugipedia 717306) states: (This card is always treated as \"Number C39: Utopia Ray\".) Representative Number C39: Utopia Ray is explicitly Yugipedia 189287 (56840427.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 936292,
+      "copy_limit_card_id": 403263,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/06218704.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Odd-Eyes Arcray Dragon (Yugipedia 936292) states: (This card is always treated as \"Supreme King Z-ARC\".) Representative Supreme King Z-ARC is explicitly Yugipedia 403263 (13331639.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 1123206,
+      "copy_limit_card_id": 1668,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/28306253.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Angry Burger (Yugipedia 1123206) states: (This card is always treated as \"Hungry Burger\".) Representative Hungry Burger is explicitly Yugipedia 1668 (30243636.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 1123377,
+      "copy_limit_card_id": 11623,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/82616239.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Light Water Dragon (Yugipedia 1123377) states: (This card is always treated as \"Water Dragon\".) Representative Water Dragon is explicitly Yugipedia 11623 (85066822.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 1153658,
+      "copy_limit_card_id": 714917,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/73819701.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Fallen of the White Dragon (Yugipedia 1153658) states: (This card is always treated as \"Fallen of Albaz\".) Representative Fallen of Albaz is explicitly Yugipedia 714917 (68468459.json). This unconditional construction identity shares its copy limit."
+    },
+    {
+      "card_id": 1158755,
+      "copy_limit_card_id": 165902,
+      "source_url": "https://github.com/DawnbrandBots/yaml-yugi/blob/0e05f6e1ee0cf363558904547785c637fc24064f/data/cards/03294539.json",
+      "source_revision": "0e05f6e1ee0cf363558904547785c637fc24064f",
+      "evidence": "Crimson Blade Dragon (Yugipedia 1158755) states: (This card is always treated as \"Crimson Blader\".) Representative Crimson Blader is explicitly Yugipedia 165902 (80321197.json). This unconditional construction identity shares its copy limit."
+    }
+  ],
+  "passcode_aliases": [],
+  "effect_categories": [
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/cards-skills.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "4bb2e1ad111d780a9dc217e865c3a915c4a8ea6606ea60c7141646c0ed443009"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/cards.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "d5166c35296a6c65dcc0230c7bc0e9f25721639159b80fa78bf724be61183a6a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-betb-en.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "618d03694a5c7184ad441dbcd503d805d8600f234c76adfc7bb1c93cbee5ac74"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-dbgv.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "f407ca39493cf4b42e3b92a86c5ff409ddd720e6e9abab15fdd0b009e9217054"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-imph.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "a781656ba5a445cdfab4e05d492b9505ac7f24b2c05f92b5f6835c31c530fc07"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-mvb1.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "bfd8661c9a231eb0eef658cac9811107eba309e2df33af73ec547b1ac8e70903"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-others.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "c76d347629b26c0c08a475bc92e918616cefe43ba4215d61282714ba869648de"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-rv02.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "f8f30f000c5655afb44de7bd72bbea33f58549a8ebcee7079e9c0417d290581a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/prerelease-yac1.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "5f64b70057ce6baee350097ddc4ba9302c3e1588a47a2f26f2daa18d8a209c3a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/a41762ad6967ae145b29c8b4c5275bcc33f9ffa2/release-betb.cdb",
+      "revision": "a41762ad6967ae145b29c8b4c5275bcc33f9ffa2",
+      "sha256": "939a33357d6d43e0c392a33df4e31034152a7bec09696041239cded0d8d8e3ae"
+    }
+  ],
+  "name_aliases": [
+    {
+      "card_id": 585578,
+      "name": "Aroma Strategy (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300202007,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205307,
+      "name": "Ars Magna \"Citrinitas\"",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 37279096,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205308,
+      "name": "Ars Magna \"Philosophorum\"",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 90728287,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205301,
+      "name": "Ars Magna the Corruption and the Purification",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 62368221,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205303,
+      "name": "Ars Magna the Division and the Union",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 99753860,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205299,
+      "name": "Ars Magna the Finite and the Infinite",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 36270527,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201869,
+      "name": "Ashtra's Domain",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 37839434,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201866,
+      "name": "Ashtra's Howl",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 91444835,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201865,
+      "name": "Ashtra's Web",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 64455720,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201863,
+      "name": "Ashtrashen - Gate to the Worlds Beyond",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 2906939,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205797,
+      "name": "Barian's Seventh Untopia",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 39513225,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1204170,
+      "name": "Bingo!",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 99505609,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1157532,
+      "name": "Black Jack the Shadow-Armored Knight",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 95506252,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205827,
+      "name": "Black Skull Dragon, the Archfiend of Unity",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 97818130,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 713935,
+      "name": "Blaze Accelerator Deployment (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300302024,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205351,
+      "name": "Blitzclique Overvolt",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 30945251,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210473,
+      "name": "Burial Summit Trirealm Rift Helheim",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 7428507,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201680,
+      "name": "Call of Atlantis",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 65785782,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 599268,
+      "name": "Call of the Haunted (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300101003,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 693844,
+      "name": "Cocoon of Ultra Evolution (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300104004,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1204417,
+      "name": "Coralianectes, the Luminous Cradle Dragon",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 82692552,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1204374,
+      "name": "Crow, the Carrion Cutpurse",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 63111591,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1198292,
+      "name": "Crowned Siclavee",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 15185344,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 22129,
+      "name": "Cu Chulainn the Awakened",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 10789972,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 714429,
+      "name": "Cyberdark Style (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300302028,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 175630,
+      "name": "Damage Vaccine Omega MAX",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 98535702,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 585391,
+      "name": "Destiny Draw (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300201002,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 650054,
+      "name": "Double Evolution Pill (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300103005,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1157534,
+      "name": "Early Palm Gets the Win",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 58995660,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1156821,
+      "name": "El Shaddoll Meshahrail",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 32467459,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1162309,
+      "name": "Endymion Empire",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 34041788,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 714913,
+      "name": "Fairy Tail Tales",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 91957038,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 103652,
+      "name": "Falchion Beta",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 86170989,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 508860,
+      "name": "Fiendish Engine Omega",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 82556058,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 650060,
+      "name": "Heavy Metal Raiders (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300103001,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201974,
+      "name": "Hey, Space Trunade!",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 2729965,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1202549,
+      "name": "Hubrow, Founder of the Ominous Observers",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 29081251,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205253,
+      "name": "Invocation - \"Grail\"",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 76334960,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205255,
+      "name": "Invoked De Anima",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 80635735,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201852,
+      "name": "Kuzuha the Hex Ashtra",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 65325949,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 715573,
+      "name": "Land of the Ojamas (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300302033,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1115737,
+      "name": "Layer 19: \"Preventing the Invasion! The Pitch-Black Super Quantum!!\"",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 98349765,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 84259,
+      "name": "Machine Lord Ur",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 96938777,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210478,
+      "name": "Mad Tempest Trirealm Rift Ploutonion",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 33822112,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 295417,
+      "name": "Marina, Princess of Sunflowers",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 78540593,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205305,
+      "name": "Mediclius the Extraordinary Power Patron",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 4063756,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 715902,
+      "name": "Middle Age Mechs (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300302036,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201854,
+      "name": "Mikumari the Banisher Ashtra",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 38114652,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 585522,
+      "name": "Millennium Eye (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300201009,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 585528,
+      "name": "Millennium Necklace (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300201006,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 585575,
+      "name": "Mind Scan (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300201008,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201676,
+      "name": "Monster Arms of Atlantis",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 37092104,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1204242,
+      "name": "Ms. Tick Call",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 55585856,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205808,
+      "name": "Number 104: Masquerade V",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 16908882,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1164647,
+      "name": "Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 75787708,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 716262,
+      "name": "Power Bond (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300302051,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1153838,
+      "name": "Reeshaddoll Wendikurhu",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 8852158,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1162310,
+      "name": "Regulus' Arrow",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 60439482,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1204244,
+      "name": "Revenge of the Paper Dolls",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 26116996,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205516,
+      "name": "Sacred Beasts Skyfall",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 3441553,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1109856,
+      "name": "Saiba the Fighting Swordsmith",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 36608728,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201677,
+      "name": "Siren Vortex of Atlantis",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 63481713,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210470,
+      "name": "Sky Thunder Trirealm Rift Yomi",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 61033809,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 716784,
+      "name": "Spell of Mask (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300302053,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 34623,
+      "name": "Spell Reactor RE",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 15175429,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1156575,
+      "name": "Stellarnova Bonds",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 69678646,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1202788,
+      "name": "Stratiae the Stratasmasher Dino",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 3841104,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 34528,
+      "name": "Summon Reactor SK",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 89493368,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 92510,
+      "name": "Synchro Blast Wave",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 35537860,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 91567,
+      "name": "Synchronized Realm",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 61032879,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1205297,
+      "name": "Theorealized Medius",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 90875418,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1159417,
+      "name": "Thorn Fangs of Violet Poison",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 72374522,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 34579,
+      "name": "Trap Reactor Y FI",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 52286175,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1206653,
+      "name": "Trirealm Rift Darkness",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 60811211,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210486,
+      "name": "Trirealm Rift Judgment",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 65195679,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210462,
+      "name": "Trirealm Rift of Blue Tuonela",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 8540055,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210458,
+      "name": "Trirealm Rift of Emptiness Gehenna",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 35761342,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210464,
+      "name": "Trirealm Rift of Scarlet Naraka",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 34645790,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210460,
+      "name": "Trirealm Rift of Sky Sheol",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 71155456,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1210482,
+      "name": "Trirealm Rift Territory - Valvols",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 33700664,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201675,
+      "name": "Warchief of Atlantis",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 90098000,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 1201853,
+      "name": "Yoa the Plague Ashtra",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 1710647,
+        "identity_evidence": "password",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    },
+    {
+      "card_id": 693840,
+      "name": "Zombie Master (Skill Card)",
+      "source": {
+        "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
+        "card_id": 300104001,
+        "identity_evidence": "skill_name",
+        "retrieved_at": "2026-10-24T10:18:56.063333+00:00"
+      }
+    }
+  ],
+  "supplements": [
+    {
+      "card_id": 531,
+      "name": "Obelisk the Tormentor (original)",
+      "url": "https://yugipedia.com/wiki/Obelisk_the_Tormentor_%28original%29",
+      "revision": 6017525,
+      "retrieved_at": "2026-10-23T23:12:07.887955+00:00",
+      "scope": "Original non-playable card, LC25 prints only; missing from yaml-yugi. No password or playable-card identity is inferred."
+    },
+    {
+      "card_id": 539,
+      "name": "Slifer the Sky Dragon (original)",
+      "url": "https://yugipedia.com/wiki/Slifer_the_Sky_Dragon_%28original%29",
+      "revision": 6017712,
+      "retrieved_at": "2026-10-23T23:12:07.888264+00:00",
+      "scope": "Original non-playable card, LC25 prints only; missing from yaml-yugi. No password or playable-card identity is inferred."
+    },
+    {
+      "card_id": 550,
+      "name": "The Winged Dragon of Ra (original)",
+      "url": "https://yugipedia.com/wiki/The_Winged_Dragon_of_Ra_%28original%29",
+      "revision": 6017890,
+      "retrieved_at": "2026-10-23T23:12:07.888530+00:00",
+      "scope": "Original non-playable card, LC25 prints only; missing from yaml-yugi. No password or playable-card identity is inferred."
+    },
+    {
+      "card_id": 20382,
+      "name": "Card of Last Will",
+      "url": "https://yugipedia.com/wiki/Card_of_Last_Will",
+      "revision": 5800935,
+      "retrieved_at": "2026-10-24T09:20:41.504642+00:00",
+      "scope": "Non-playable physical card omitted by yaml-yugi; explicit printed sets only."
+    },
+    {
+      "card_id": 1111422,
+      "name": "Gearfried the Steel Knight",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228927,
+      "name": "Angelechy Endgame Problem",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228974,
+      "name": "Angelechy Strategy Score",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222616,
+      "name": "Knight of Twin Swords",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222630,
+      "name": "Aroma Strategy",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228951,
+      "name": "Chaospawn Bishop",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228949,
+      "name": "Archidux, the Squid Sorcerer",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228937,
+      "name": "Just Flip a Coin",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223468,
+      "name": "Perfect Eclosion - Perfectly Ultimate Great Moth",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228933,
+      "name": "Angelechy Verdict",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222619,
+      "name": "Spell Card \"Enemy Controller\"",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222612,
+      "name": "King of Yamimado",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228955,
+      "name": "Angelechy Castellan",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222617,
+      "name": "Flashforce Sword",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228922,
+      "name": "Skyborne Blue Cularsaw",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228918,
+      "name": "Kumenyo, the Nine-Hued Deer",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1211875,
+      "name": "Armor Wizard Pazoo",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228969,
+      "name": "Angelechy Brilliant Move",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228645,
+      "name": "Harpie Lady - Elegant Egotist",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222623,
+      "name": "Final Journey of the Soul",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222618,
+      "name": "Archfiend of Gilfer - Flame Attack",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228943,
+      "name": "Angelechy Opposition",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228953,
+      "name": "Angelechy Seneschal",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228924,
+      "name": "Half Slice of Nickeline",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222613,
+      "name": "Attribute Rejection",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1222642,
+      "name": "Field Power Bonus",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1227427,
+      "name": "Dark Necrofear, the Ruler of Demise",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228900,
+      "name": "Exodia the Obliterator",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228959,
+      "name": "Kerolia the Frolicsome",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1229756,
+      "name": "Silent Magician, the Silent Fighter",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1228940,
+      "name": "Tigress in Silent Repose",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1230693,
+      "name": "The Dark Dragon Lord of Ultum",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223180,
+      "name": "Reindsurm Giriakarma",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223181,
+      "name": "Reindsurm Amurusa",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223183,
+      "name": "Reindsurm Luvian",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223184,
+      "name": "Reindsurm Gigalovendra",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223185,
+      "name": "Reindsurm Carcasas",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223193,
+      "name": "Reindsurm Conquest",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223197,
+      "name": "Reindsurm Carnation",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223198,
+      "name": "Reindsurm Butterfly",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223201,
+      "name": "Reindsurm Practice",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223203,
+      "name": "Reindsurm Encounter",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223665,
+      "name": "Wicked Canon",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223667,
+      "name": "Hope for the Future",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223806,
+      "name": "Salamangreat Markhor",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223807,
+      "name": "Salamangreat Bastella",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223808,
+      "name": "King of Beasts, Risen from the Valley of Flames",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223812,
+      "name": "Salamangreat Gearblade",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1223814,
+      "name": "Salamangreat Shrine",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224542,
+      "name": "Purifire of the Winter Raven's Forest",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224545,
+      "name": "Mart, Knight of the Winter Raven",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224547,
+      "name": "Anu, Knight of the Winter Raven",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224550,
+      "name": "Sinful Spoils of the Winter Raven's Forest",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224561,
+      "name": "Diabellze, Heiress of the Winter Raven's Forest",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224565,
+      "name": "Zaltys, Knight of the Winter Raven",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224568,
+      "name": "Aitvaras, Knight of the Winter Raven",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224570,
+      "name": "Deep Forest of the Winter Raven",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224577,
+      "name": "Splendor of the Winter Raven Witch",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1224583,
+      "name": "Illusion of the Winter Raven Witch",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1226088,
+      "name": "Pritima the Infinity Cubic Vessel",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1226089,
+      "name": "Alditia Hell Blaze the Burning Cubic Lord",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1226090,
+      "name": "Abyss Vagrada the Abyssal Cubic Lord",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1226091,
+      "name": "Divine Anima Infinity the Creation Cubic Overlord",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1226092,
+      "name": "Cubic Bodhi",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1226094,
+      "name": "Diabellstar, the Seeker of Sinful Spoils",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1227511,
+      "name": "Counter Spell \"Negate Attack\"",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1229722,
+      "name": "Autumn",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1230393,
+      "name": "The Secret Crane Princess Who Returns A Favor",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1230534,
+      "name": "Bunnillin: Mocha MOD",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1230536,
+      "name": "Bunnillin Extract",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1230537,
+      "name": "Bunnillin Soft",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1230914,
+      "name": "Javelin Beetle of the Alliance",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1231071,
+      "name": "Lethargisaurus",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1231435,
+      "name": "Buster Blader, the One Who Surpasses the Limits",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1231498,
+      "name": "The Pyramid of Kepher",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1231715,
+      "name": "Card Crawl",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1231828,
+      "name": "Karin the Celestial Sage of the Highest Heights",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232438,
+      "name": "Heretic Eradicator",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232531,
+      "name": "Omega Vidolium the Power Patron of Heaven's End",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232533,
+      "name": "Power Patron Portal Plugging -Sword of Mutual Destruction-",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232537,
+      "name": "Theorealize Ephemeral Lull",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232806,
+      "name": "Ars Magna Artmage",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232807,
+      "name": "Ars Magna DoomZ",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232808,
+      "name": "Ars Magna Elfnote",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1232809,
+      "name": "Ars Magna Academic Arcane Apparition Acropolis",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233546,
+      "name": "Marincess Azuri",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233549,
+      "name": "Marincess Ulpis",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233553,
+      "name": "Aqua Leviathan @Marincess",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233564,
+      "name": "Marincess Truth Heart",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233568,
+      "name": "Marincess Reef Lagoon",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233929,
+      "name": "Magistus Witchcrafter Aruru",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233930,
+      "name": "Invoked Magistus Heruvim",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1233931,
+      "name": "Trinitas Magistus",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234309,
+      "name": "Gandora-X the Blackmetal Rampaging Dragon",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234310,
+      "name": "Warrior's Devotion",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234313,
+      "name": "Time Chain",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234411,
+      "name": "Necromancer of Dragon Magic",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234605,
+      "name": "Castle of Vampire",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234776,
+      "name": "Primrose the Twin Rikka Fairy",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234779,
+      "name": "Rikka Black Princess",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234781,
+      "name": "Teardrop the Rikka Empress",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234783,
+      "name": "Rikka Empress Strenna",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234785,
+      "name": "Rikka June Moon",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234791,
+      "name": "Power of the Duelist",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234794,
+      "name": "Amazoness Chain Master - Brink of Death Chain Dance",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234796,
+      "name": "Amazoness Fighter - Instant Kill Dance",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234798,
+      "name": "Amazoness Spellcaster - Forbidden Spell Dance",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234800,
+      "name": "Harpie Lady - Alluring Dance",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234802,
+      "name": "Amazoness Swordmaster",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234804,
+      "name": "Triangle Ecstasy Harpie Lady Sisters",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234806,
+      "name": "Elegant Tri-Mirror",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234808,
+      "name": "Harpie & Amazoness Rakshasa Formation",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234811,
+      "name": "Amazoness Dramatic Rescue",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1234814,
+      "name": "Eyelluring Mirror Wall",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    },
+    {
+      "card_id": 1235905,
+      "name": "Bau the Black Dog Beast",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/tree/312be377b876af4fe3fadc69fac2367adf765cb2/data",
+      "revision": "312be377b876af4fe3fadc69fac2367adf765cb2",
+      "retrieved_at": "2026-10-24T10:18:56.063333+00:00",
+      "scope": "New stable Yugipedia identity from current upstream; additive supplement preserves installed historical prints/artwork."
+    }
+  ]
+}
